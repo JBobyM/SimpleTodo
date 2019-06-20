@@ -26,8 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Walkthrough.gif' width='' alt='Video Walkthrough' />
-![ ](https://github.com/JBobyM/SimpleTodo/blob/master/walkthrough2.gif)
+<img src='Walkthrough.gif' img src ='walkthrough2.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [Mobizen](http://www.cockos.com/licecap/).
 
