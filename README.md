@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Walkthrough.gif, walkthrough2.gif' width='' alt='Video Walkthrough' />
+<img src='Walkthrough.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [Mobizen](http://www.cockos.com/licecap/).
 
